@@ -2,6 +2,8 @@
 
 ## Mod Installer
 
+![logo](logo.png)
+
 To install the mod in a easy way, please install this mod installer.
 
 Download link: [Click to download](https://hub.waroftanks.cn/docs/app-release.apk)
